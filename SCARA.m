@@ -1,8 +1,8 @@
 # constants in meters "from tha datasheet of the THP700 type"
 L1=0.35;
 L2=0.3; 
-d1=0.175;
-d4=0.015;
+d1=0.16;
+d4=0.16;
 #constrains on the range, all are +ve or -ve, in degrees and meters
 rangeAxis1=148;
 rangeAxis2=150;
